@@ -247,7 +247,7 @@ Map
 ```
 
 ![Svalbard AOI Visualisation in Google Collab/
-GEE](README_Figures/Screenshot%202026-04-13%20152547.png)
+GEE](results/Webshots/Svalbard_AOI)
 
 ### 1.6 Load ERA5-Land Climate Data
 
