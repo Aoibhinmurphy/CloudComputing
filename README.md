@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 
 # **Climate Trends in Svalbard:** A 30-Year Temperature and Precipitation Analysis (1994–2023)
 
@@ -161,14 +157,9 @@ import pandas as pd                   #Data manipulation
 import numpy as np                    #Data manipulation
 from PIL import Image                 #Image processing
 import imageio                        #Image processing
-import requests                       #Visualization
 import matplotlib.pyplot as plt       #Visualization
 import matplotlib as mpl              #Visualization
-import seaborn as sns                 #Visualization
-from datetime import datetime         #Visualization
 import os                             #Visualization
-from IPython.display import display   #Visualization
-import ipywidgets as widgets          #Visualization
 from io import BytesIO                #Visualization
 import cartopy.crs as ccrs            #Visualization
 import cartopy.feature as cfeature    #Visualization
