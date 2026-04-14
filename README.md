@@ -224,7 +224,8 @@ Map
 ```
 
 ![Svalbard AOI Visualisation in Google Collab/
-GEE](CloudComputing/results/Webshots/Svalbard_AOI.png)
+GEE](results/Webshots/Svalbard_AOI.png)
+
 
 ### 1.6 Load ERA5-Land Climate Data
 
