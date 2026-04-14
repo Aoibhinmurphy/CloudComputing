@@ -450,7 +450,7 @@ Map_temp_annual
 
 **Cell output:**
 
-## ![Svalbard Annual Temperature Trends 1994-2024 Visualisation in Google Collab/ GEE](README_Figures/Annual_Temp_Trend.png){width="1663"}
+## ![Svalbard Annual Temperature Trends 1994-2024 Visualisation in Google Collab/ GEE](results/Webshots/Annual_Temp_Trend.png)
 
 Pixel-wise Annual Temperature Trend Analysis for Svalbard (1994-2023)
 visualised in Google Collab/ GEE.
