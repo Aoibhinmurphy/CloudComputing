@@ -539,7 +539,7 @@ AOI_Export.start()
 
 #### Example of QGIS Map Output:
 
-![](results/Webshots/Annual_Temp_Trend.png)
+![](results/QGIS_Maps/Svalbard_Temperature_Trend_1994_2024_Map.png)
 
 ### 2.2 Annual Precipitation Data
 
