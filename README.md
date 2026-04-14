@@ -88,51 +88,35 @@ Catalog and can be called on via the following GEE snippets.
 -   [1. Setup and Installation](#1-data-preparation)
     -   [1.1 Install Packages](#11-install-packages)
     -   [1.2 Import Required Libraries](#12-import-required-libraries)
-    -   [1.3 Create Linkage between Notebook and Google Earth
-        Engine](#13-create-linkage-between-notebook-and-google-earth-engine)
-    -   [1.4 Create Linkage between Notebook and Google
-        Drive](#14-create-linkage-between-notebook-and-google-drive)
+    -   [1.3 Create Linkage between Notebook and Google Earth Engine](#13-create-linkage-between-notebook-and-google-earth-engine)
+    -   [1.4 Create Linkage between Notebook and Google Drive](#14-create-linkage-between-notebook-and-google-drive)
     -   [1.5 Load Svalbard AOI](#15-load-svalbard-aoi)
     -   [1.6 Visualise Svalbard AOI](16-visualise-svalbard-aoi)
-    -   [1.7 Load ERA5-Land Climate
-        Data](#17-load-era5-land-climate-data)
+    -   [1.7 Load ERA5-Land Climate Data](#17-load-era5-land-climate-data)
     -   [1.8 Unit Conversion](#18-unit-conversion)
 -   [2. Pixel-wise Trend Analysis](#2-pixel-wise-trend-analysis)
     -   [2.1 Annual Temperature Data](#21-annual-temperature-data)
-        -   [2.1.1 Annual Temperature Trend
-            Analysis](#211-annual-temperature-trend-anaylsis)
+        -   [2.1.1 Annual Temperature Trend Analysis](#211-annual-temperature-trend-anaylsis)
         -   [2.1.2 Visualisation](#212-visualisation)
-        -   [2.1.3 OPTIONAL- Export as
-            GeoTIFF](#213-optional-export-as-geotiff)
+        -   [2.1.3 OPTIONAL- Export as GeoTIFF](#213-optional-export-as-geotiff)
     -   [2.2 Annual Precipitation Data](#22-annual-precipitation-data)
-        -   [2.2.1 Annual Precipitation Trend
-            Analysis](#221-annual-precipitation-trend-analysis)
+        -   [2.2.1 Annual Precipitation Trend Analysis](#221-annual-precipitation-trend-analysis)
         -   [2.2.2 Visualisation](#222-visualisation)
-        -   [2.2.3 OPTIONAL- Export as
-            GeoTIFF](#223-OPTIONAL-export-as-geo-tiff)
+        -   [2.2.3 OPTIONAL- Export as GeoTIFF](#223-OPTIONAL-export-as-geo-tiff)
     -   [2.3 Monthly Temperature Data](#23-monthly-temperature-data)
-        -   [2.3.1 Monthly Temperature Trend
-            Analysis](#231-monthly-temperature-trend-analysis)
+        -   [2.3.1 Monthly Temperature Trend Analysis](#231-monthly-temperature-trend-analysis)
         -   [2.3.2 Time Series Visualisation](#232-visualisation)
-        -   [2.3.3 OPTIONAL- Export as
-            GeoTIFF(12)](#233-OPTIONAL-export-as-geo-tiff(12))
+        -   [2.3.3 OPTIONAL- Export as GeoTIFF(12)](#233-OPTIONAL-export-as-geo-tiff(12))
     -   [2.4 Monthly Precipitation Data](#24-monthly-precipitation-data)
-        -   [2.4.1 Monthly Precipitation Trend
-            Analysis](#241-monthly-precipitation-trend-analysis)
+        -   [2.4.1 Monthly Precipitation Trend Analysis](#241-monthly-precipitation-trend-analysis)
         -   [2.4.2 Time Series Visualisation](#242-visualisation)
-        -   [2.4.3 OPTIONAL - Export as
-            GeoTIFF(12)](#243--OPTIONAL-export-as-geo-tiff(12))
-    -   [2.5 Plotting Annual Precipitation and
-        Temperature](#25plotting-annual-precipitation-and-temperature)
+        -   [2.4.3 OPTIONAL - Export as GeoTIFF(12)](#243--OPTIONAL-export-as-geo-tiff(12))
+    -   [2.5 Plotting Annual Precipitation and Temperature](#25plotting-annual-precipitation-and-temperature)
 -   [3. Statistical Analysis](#3-statistical-analysis)
-    -   [3.1 Mann–Kendall and Sen’s Slope:
-        Temperature](31-mann-kendall-and-sens-slope:-temperature)
-        -   [4.1.1 Export and
-            Visualisation](#311-export-and-visualisation)
-    -   [3.2 Mann–Kendall and Sen’s Slope:
-        Precipitation](#32-mann-kendall-and-sens-slope:-temperature)
-        -   [4.2.1 Export and
-            Visualisation](#321-export-and-visualisation)
+    -   [3.1 Mann–Kendall and Sen’s Slope: Temperature](31-mann-kendall-and-sens-slope:-temperature)
+        -   [4.1.1 Export and Visualisation](#311-export-and-visualisation)
+    -   [3.2 Mann–Kendall and Sen’s Slope: Precipitation](#32-mann-kendall-and-sens-slope:-temperature)
+        -   [4.2.1 Export and Visualisation](#321-export-and-visualisation)
 -   [4. Results](#4-results)
 -   [5. Methodology Acknowledgement](#5-methodology-acknowledgement)
 
@@ -240,7 +224,7 @@ Map
 ```
 
 ![Svalbard AOI Visualisation in Google Collab/
-GEE](results/Webshots/Svalbard_AOI)
+GEE](CloudComputing/results/Webshots/Svalbard_AOI.png)
 
 ### 1.6 Load ERA5-Land Climate Data
 
