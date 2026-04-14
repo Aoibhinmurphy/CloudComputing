@@ -1,5 +1,6 @@
 
-----------------------------------------------------------------------------
+
+
 
 # **Climate Trends in Svalbard:** A 30-Year Temperature and Precipitation Analysis (1994–2023)
 
