@@ -685,7 +685,7 @@ print(task_precip_trend_annual.status())
 
 #### Example of QGIS Map Output:
 
-![](results/QGIS%20Maps/Svalbard_Precipitation_Trend_1994_2024_Map.png)
+![](results/QGIS%20Maps/Svalbard_Precipitation_Trend_1994_2023.png)
 
 ### 2.3 Monthly Temperature Data
 
