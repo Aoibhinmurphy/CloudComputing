@@ -1767,7 +1767,7 @@ plt.show()
 
 #### Cell output from above:
 
-![](README_Figures/Svalbard_Temp_and_Precip_Plot_1994_2023.png)
+![](results/ColabPlots/Svalbard_Temp_and_Precip_Plot_1994_2023.png)
 
 ------------------------------------------------------------------------
 
