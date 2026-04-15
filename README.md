@@ -115,7 +115,7 @@ Catalog and can be called on via the following GEE snippets.
 -   [3. Statistical Analysis](#3-statistical-analysis)
     -   [3.1 Mann–Kendall and Sen’s Slope: Temperature](31-mann-kendall-and-sen's-slope:-temperature)
         -   [4.1.1 Export and Visualisation](#311-export-and-visualisation)
-    -   [3.2 Mann–Kendall and Sen’s Slope: Precipitation](#32-mann-kendall-and-sen's-slope:-temperature)
+    -   [3.2 Mann–Kendall and Sen’s Slope: Precipitation](#32-mann-kendall-and-sen's-slope:-precipitation)
         -   [4.2.1 Export and Visualisation](#321-export-and-visualisation)
 -   [4. Results](#4-results)
 -   [5. Methodology Acknowledgement](#5-methodology-acknowledgement)
@@ -539,7 +539,8 @@ AOI_Export.start()
 
 #### Example of QGIS Map Output:
 
-![](results/QGIS_Maps/Svalbard_Temperature_Trend_1994_2024_Map.png)
+![](results/QGIS-Maps/Svalbard_Temperature_Trend_1994_2024_Map.png)
+
 
 ### 2.2 Annual Precipitation Data
 
