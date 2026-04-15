@@ -2024,7 +2024,7 @@ print("GeoTiff with significant Sen's slope test export started: Temperature")
 
 #### Example of QGIS Map Output:
 
-![](README_Figures/Svalbard_Temperature_Significance_Trend_1994_2023.png)
+![](results/QGIS%20Maps/Svalbard_Temperature_Significance_Trend_1994_2023.png)
 
 #### 3.2 Mann–Kendall and Sen’s Slope: Precipitation
 
@@ -2141,7 +2141,7 @@ print("GeoTiff with significant Sen's slope test export started: Precipitation")
 
 #### Example of QGIS Map Output:
 
-![](README_Figures/Svalbard_Precipitation_Significance_Trend_1994_2023.png)
+![](results/QGIS%20Maps/Svalbard_Precipitation_Significance_Trend_1994_2023.png)
 
 ## Results
 
