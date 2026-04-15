@@ -741,7 +741,7 @@ for month_num in range(1, 13): # There are 12 months, but still range to 13. In 
 
 #### Monthly Temperature Trends 1994-2023 Graph
 
-![](README_Figures/Svalbard_Monthly_Temp_Trends_1994_2013(1).png){width="690"}
+![](results/ColabPlots/Svalbard_Monthly_Temp_Trends_1994_2013(1).png)
 
 #### Code for graph can be found below:
 
@@ -1199,7 +1199,7 @@ for month_num in range(1, 13):
 
 #### Monthly Precipitation Trends 1994-2023 Graph
 
-![](README_Figures/Svalbard_Monthly_Precip_Trends_1994_2023.png)
+![](results/ColabPlots/Svalbard_Monthly_Precip_Trends_1994_2013(1).png)
 
 #### Code for graph can be found below:
 
