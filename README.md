@@ -450,7 +450,7 @@ Map_temp_annual
 
 **Cell output:**
 
-## ![Svalbard_Annual Temperature Trends 1994-2024 Visualisation in Google Collab/ GEE](results/Webshots/Annual_Temp_Trend.png)
+## ![Svalbard_Annual Temperature Trends 1994-2024 Visualisation in Google Colab/ GEE](results/Webshots/Annual_Temp_Trend.png)
 
 Pixel-wise Annual Temperature Trend Analysis for Svalbard (1994-2023)
 visualised in Google Collab/ GEE.
@@ -539,7 +539,7 @@ AOI_Export.start()
 
 #### Example of QGIS Map Output:
 
-![](results/QGIS-Maps/Svalbard_Temperature_Trend_1994_2024_Map.png)
+![](results/QGIS%20Maps/Svalbard_Temperature_Trend_1994_2024_Map.png)
 
 
 ### 2.2 Annual Precipitation Data
@@ -629,9 +629,11 @@ Map_precip_annual
 
 **Cell output:**
 
-![Pixel-wise Annual Precipitation Trend Analysis for Svalbard
-(1994-2023) visualised in Google Collab/
-GEE.](README_Figures/Annual_Precip_Trend.png)
+
+
+## ![Svalbard_Annual Precipitation Trends 1994-2024 Visualisation in Google Colab/ GEE](results/Webshots/Annual_Precip_Trend.png)
+
+
 
 #### 2.2.3 OPTIONAL: Export as GeoTIFF
 
@@ -683,7 +685,7 @@ print(task_precip_trend_annual.status())
 
 #### Example of QGIS Map Output:
 
-![](README_Figures/Svalbard_Precipitation_Trend_1994_2023.png)
+![](results/QGIS%20Maps/Svalbard_Precipitation_Trend_1994_2024_Map.png)
 
 ### 2.3 Monthly Temperature Data
 
