@@ -1199,7 +1199,7 @@ for month_num in range(1, 13):
 
 #### Monthly Precipitation Trends 1994-2023 Graph
 
-![](results/ColabPlots/Svalbard_Monthly_Precip_Trends_1994_2013(1).png)
+![](results/ColabPlots/Svalbard_Monthly_Precip_Trends_1994_2023%20(1).png)
 
 #### Code for graph can be found below:
 
